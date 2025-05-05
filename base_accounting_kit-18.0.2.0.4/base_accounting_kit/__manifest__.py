@@ -29,7 +29,7 @@
     'author': 'The Functionary',
 
     'company': 'The functionary',
-    'maintainer': 'Cybrosys Techno Solutions',
+    'maintainer': 'Muhammed mukthar',
     'website': "https://www.cybrosys.com",
     'depends': ['account', 'sale', 'account_check_printing', 'analytic',
                 'base_account_budget'],
