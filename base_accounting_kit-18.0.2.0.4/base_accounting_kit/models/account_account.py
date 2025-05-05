@@ -21,6 +21,8 @@
 #############################################################################
 from odoo import api, fields, models
 from odoo.tools.misc import get_lang
+ # new feature added for testing
+
 
 
 class CashFlow(models.Model):
