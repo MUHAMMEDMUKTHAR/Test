@@ -27,8 +27,8 @@
     'summary': """Odoo 18 Accounting, Odoo 18 Accounting Reports, Odoo18 Accounting, Odoo Accounting, Odoo18 Financial Reports, Odoo18 Asset, Odoo18 Profit and Loss, PDC, Followups, Odoo18, Accounting, Odoo Apps, Reports""",
     'description': """ Update Description for Testing""",
     'author': 'The Functionary',
-    
-    'company': 'Cybrosys Techno Solutions',
+
+    'company': 'The functionary',
     'maintainer': 'Cybrosys Techno Solutions',
     'website': "https://www.cybrosys.com",
     'depends': ['account', 'sale', 'account_check_printing', 'analytic',
