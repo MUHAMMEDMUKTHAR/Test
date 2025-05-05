@@ -93,6 +93,8 @@
         'wizard/account_lock_date_views.xml',
         'wizard/import_bank_statement_views.xml',
     ],
+
+    
     'external_dependencies': {
             'python': ['openpyxl', 'ofxparse', 'qifparse']
         },
